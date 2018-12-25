@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_URI": "mongodb://yahyawi:yahyawi789456123@ds227594.mlab.com:27594/react-recipes",
+        "SECRET": "qsdqsdqsdsqmdqsd33546543"
+    }
+}
